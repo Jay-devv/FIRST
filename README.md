@@ -1,10 +1,6 @@
 Git and Git Flow Cheat Sheet 
 ===============
-<hr>
-<p align="center">
-    <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
-</p>
-<hr>
+
 
 Git cheat sheet saves you from learning all the commands by heart.
 
